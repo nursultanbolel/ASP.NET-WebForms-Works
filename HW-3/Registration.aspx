@@ -21,10 +21,10 @@
                     <span class="navbar-toggler-icon"></span>
                 </button>
                 <div class="collapse navbar-collapse" id="navbarTogglerDemo01">
-                    <a class="navbar-brand" href="#">
+                    <a class="navbar-brand" href="MainPage.aspx">
                         <img src="http://icons.iconarchive.com/icons/fasticon/happy-bus/128/bus-red-icon.png" width="40" height="40" alt="" />
                     </a>
-                    <a class="navbar-brand text-white font-weight-bold " href="">ANADOLU TUR</a>
+                    <a class="navbar-brand text-white font-weight-bold " href="MainPage.aspx">ANADOLU TUR</a>
 
                 </div>
                 <div class="text-right">
