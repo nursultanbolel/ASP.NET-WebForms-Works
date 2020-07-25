@@ -11,6 +11,8 @@ I designed a website that displays movie information and allows user to add movi
 ![Alt Text](https://github.com/nursultanbolel/ASP.NET-WebForms-Works/blob/master/gifs/hw2Gift.gif)
 
 ## HW-3
+It's a simple bus registration system. <br>
+There are only three bus servise on 28 March 2020 in database.<br>
 ![Alt Text](https://github.com/nursultanbolel/ASP.NET-WebForms-Works/blob/master/gifs/hw3Gift.gif)
 ## HW-4
 
