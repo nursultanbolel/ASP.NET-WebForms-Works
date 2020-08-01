@@ -35,7 +35,7 @@
             document.getElementById("pd2").innerHTML = parseInt(300 / 3) + "%";
             document.getElementById("pd3").style.width = 300 + "%";
             document.getElementById("pd3").innerHTML = parseInt(300 / 3) + "%";
-            document.getElementById("Label_error").innerHTML = "File downloading process is completed successfully.";
+            document.getElementById("Label_error").innerHTML = "File downloading process was completed successfully.";
             id = setInterval("progressClear", 20);
             
         }

@@ -121,7 +121,7 @@
             document.getElementById("pb2").innerHTML = parseInt(300 / 3) + "%";
             document.getElementById("pb3").style.width = 300 + "%";
             document.getElementById("pb3").innerHTML = parseInt(300 / 3) + "%";
-            ocument.getElementById("Label_error").innerHTML = "File uploading process is completed successfully.";
+            document.getElementById("Label_error").innerHTML = "File uploading process was completed successfully.";
             id = setInterval("progressClear", 20);
 
         }
