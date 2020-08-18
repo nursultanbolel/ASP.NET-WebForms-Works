@@ -1,0 +1,73 @@
+2020-08-18 08:35:19.563 +03:00 [INF] Veri tabaninda bulunan en son yayinlanan 30 haber basarili bir sekilde cekildi.
+2020-08-18 08:37:52.531 +03:00 [INF] Veri tabaninda bulunan en son yayinlanan 30 haber basarili bir sekilde cekildi.
+2020-08-18 08:38:09.830 +03:00 [INF] Veri tabaninda bulunan kategorsi Gündem olan herberler basarili bir sekilde cekildi.
+2020-08-18 08:38:12.399 +03:00 [INF] Veri tabaninda bulunan kategorsi Türkiye olan herberler basarili bir sekilde cekildi.
+2020-08-18 08:38:14.534 +03:00 [INF] Veri tabaninda bulunan kategorsi Dünya olan herberler basarili bir sekilde cekildi.
+2020-08-18 08:38:16.269 +03:00 [INF] Veri tabaninda bulunan kategorsi Spor olan herberler basarili bir sekilde cekildi.
+2020-08-18 08:38:18.155 +03:00 [INF] Veri tabaninda bulunan kategorsi Ekonomi olan herberler basarili bir sekilde cekildi.
+2020-08-18 08:38:19.979 +03:00 [INF] Veri tabaninda bulunan kategorsi Sağlık olan herberler basarili bir sekilde cekildi.
+2020-08-18 08:38:22.243 +03:00 [INF] Veri tabaninda bulunan kategorsi Çevre olan herberler basarili bir sekilde cekildi.
+2020-08-18 08:38:25.642 +03:00 [INF] Veri tabaninda bulunan kategorsi Sağlık olan herberler basarili bir sekilde cekildi.
+2020-08-18 08:38:29.211 +03:00 [INF] 17 Ağustos koronavirüs tablosu açıklandı… Bugünkü vaka sayısı… baslikli haber veri tabanindan basarili bir sekilde cekildi.
+2020-08-18 08:38:47.437 +03:00 [INF] Veri tabaninda bulunan kategorsi Gündem olan herberler basarili bir sekilde cekildi.
+2020-08-18 08:38:55.715 +03:00 [INF] Haiti Dışişleri Bakanı Joseph: Türkiye desteğini esirgemedi baslikli haber veri tabanindan basarili bir sekilde cekildi.
+2020-08-18 08:39:05.937 +03:00 [INF] Veri tabaninda bulunan kategorsi Türkiye olan herberler basarili bir sekilde cekildi.
+2020-08-18 08:39:09.076 +03:00 [INF] Veri tabaninda bulunan kategorsi Dünya olan herberler basarili bir sekilde cekildi.
+2020-08-18 08:39:10.448 +03:00 [INF] Veri tabaninda bulunan kategorsi Türkiye olan herberler basarili bir sekilde cekildi.
+2020-08-18 11:55:13.667 +03:00 [INF] Veri tabaninda bulunan en son yayinlanan 30 haber basarili bir sekilde cekildi.
+2020-08-18 11:56:03.397 +03:00 [INF] 17 Ağustos koronavirüs tablosu açıklandı… Bugünkü vaka sayısı… baslikli haber veri tabanindan basarili bir sekilde cekildi.
+2020-08-18 12:01:17.956 +03:00 [INF] Veri tabaninda bulunan en son yayinlanan 30 haber basarili bir sekilde cekildi.
+2020-08-18 12:01:22.191 +03:00 [INF] Veri tabaninda bulunan kategorsi Çevre olan herberler basarili bir sekilde cekildi.
+2020-08-18 12:01:24.751 +03:00 [INF] Günlerce mahsur kaldığı denizde çiğ balık yiyerek hayatta kaldı baslikli haber veri tabanindan basarili bir sekilde cekildi.
+2020-08-18 12:01:51.896 +03:00 [INF] Kapadokya günübirlikçi yerli turistleri ağırlıyor baslikli haber veri tabanindan basarili bir sekilde cekildi.
+2020-08-18 12:02:04.786 +03:00 [INF] Veri tabaninda bulunan kategorsi Türkiye olan herberler basarili bir sekilde cekildi.
+2020-08-18 12:13:37.604 +03:00 [INF] Veri tabaninda bulunan en son yayinlanan 30 haber basarili bir sekilde cekildi.
+2020-08-18 12:13:57.555 +03:00 [INF] Rusya Enerji Bakanı Novak koronavirüse yakalandı baslikli haber veri tabanindan basarili bir sekilde cekildi.
+2020-08-18 12:14:02.948 +03:00 [INF] Brent petrolün varili 45 doların üstünde baslikli haber veri tabanindan basarili bir sekilde cekildi.
+2020-08-18 12:14:10.310 +03:00 [INF] 17 Ağustos koronavirüs tablosu açıklandı… Bugünkü vaka sayısı… baslikli haber veri tabanindan basarili bir sekilde cekildi.
+2020-08-18 12:14:16.121 +03:00 [INF] "Tedbirlerin aksatılması vaka artışında en büyük etken" baslikli haber veri tabanindan basarili bir sekilde cekildi.
+2020-08-18 12:14:20.689 +03:00 [INF] Bakan Akar: Libyalı kardeşlerimiz ile beraber olmaya devam edeceğiz baslikli haber veri tabanindan basarili bir sekilde cekildi.
+2020-08-18 12:14:29.470 +03:00 [INF] Çin ve Tayland menşeli bebek ürünlerinin ithalatına önlem baslikli haber veri tabanindan basarili bir sekilde cekildi.
+2020-08-18 14:38:33.631 +03:00 [INF] Veri tabaninda bulunan en son yayinlanan 30 haber basarili bir sekilde cekildi.
+2020-08-18 14:39:08.515 +03:00 [INF] Türk savunma sanayiinde tarihi tablo baslikli haber veri tabanindan basarili bir sekilde cekildi.
+2020-08-18 14:39:20.740 +03:00 [INF] Veri tabaninda bulunan en son yayinlanan 30 haber basarili bir sekilde cekildi.
+2020-08-18 14:39:30.292 +03:00 [INF] Son 1 yılda kadın esnaf sayısı 33 bin arttı baslikli haber veri tabanindan basarili bir sekilde cekildi.
+2020-08-18 14:39:43.311 +03:00 [INF] Veri tabaninda bulunan kategorsi Gündem olan herberler basarili bir sekilde cekildi.
+2020-08-18 14:39:45.131 +03:00 [INF] Veri tabaninda bulunan kategorsi Türkiye olan herberler basarili bir sekilde cekildi.
+2020-08-18 14:39:46.670 +03:00 [INF] Veri tabaninda bulunan kategorsi Dünya olan herberler basarili bir sekilde cekildi.
+2020-08-18 14:39:47.971 +03:00 [INF] Veri tabaninda bulunan kategorsi Spor olan herberler basarili bir sekilde cekildi.
+2020-08-18 14:39:49.131 +03:00 [INF] Veri tabaninda bulunan kategorsi Ekonomi olan herberler basarili bir sekilde cekildi.
+2020-08-18 14:39:50.552 +03:00 [INF] Veri tabaninda bulunan kategorsi Sağlık olan herberler basarili bir sekilde cekildi.
+2020-08-18 14:39:51.820 +03:00 [INF] Veri tabaninda bulunan kategorsi Çevre olan herberler basarili bir sekilde cekildi.
+2020-08-18 14:39:55.073 +03:00 [INF] Zehirli deniz kestaneleri Doğu Akdeniz turizmini tehdit ediyor baslikli haber veri tabanindan basarili bir sekilde cekildi.
+2020-08-18 14:39:57.479 +03:00 [INF] Kapadokya günübirlikçi yerli turistleri ağırlıyor baslikli haber veri tabanindan basarili bir sekilde cekildi.
+2020-08-18 14:40:00.669 +03:00 [INF] İtalyan koyu tatilcilerin atıklarıyla çöplüğe döndü baslikli haber veri tabanindan basarili bir sekilde cekildi.
+2020-08-18 14:40:05.139 +03:00 [INF] Türk Yıldızları gökyüzünde hilal çizdi baslikli haber veri tabanindan basarili bir sekilde cekildi.
+2020-08-18 14:40:15.164 +03:00 [INF] Kapadokya günübirlikçi yerli turistleri ağırlıyor baslikli haber veri tabanindan basarili bir sekilde cekildi.
+2020-08-18 14:40:17.870 +03:00 [INF] Veri tabaninda bulunan en son yayinlanan 30 haber basarili bir sekilde cekildi.
+2020-08-18 14:40:38.434 +03:00 [INF] Son 1 yılda kadın esnaf sayısı 33 bin arttı baslikli haber veri tabanindan basarili bir sekilde cekildi.
+2020-08-18 14:40:44.056 +03:00 [INF] Türk savunma sanayiinde tarihi tablo baslikli haber veri tabanindan basarili bir sekilde cekildi.
+2020-08-18 14:40:55.232 +03:00 [INF] Türk savunma sanayiinde tarihi tablo baslikli haber veri tabanindan basarili bir sekilde cekildi.
+2020-08-18 14:41:06.384 +03:00 [INF] Türk savunma sanayiinde tarihi tablo baslikli haber veri tabanindan basarili bir sekilde cekildi.
+2020-08-18 14:41:31.011 +03:00 [INF] Veri tabaninda bulunan kategorsi Türkiye olan herberler basarili bir sekilde cekildi.
+2020-08-18 14:41:31.789 +03:00 [INF] Veri tabaninda bulunan kategorsi Dünya olan herberler basarili bir sekilde cekildi.
+2020-08-18 14:41:32.781 +03:00 [INF] Veri tabaninda bulunan kategorsi Spor olan herberler basarili bir sekilde cekildi.
+2020-08-18 14:41:34.306 +03:00 [INF] Veri tabaninda bulunan kategorsi Dünya olan herberler basarili bir sekilde cekildi.
+2020-08-18 14:41:35.149 +03:00 [INF] Mısır Meclisi, Yunanistan ile imzalanan anlaşmayı onayladı baslikli haber veri tabanindan basarili bir sekilde cekildi.
+2020-08-18 14:41:46.685 +03:00 [INF] Filistin Başbakanı: BAE-İsrail normalleşme anlaşması Arap mutabakatından açıkça sapmaktır baslikli haber veri tabanindan basarili bir sekilde cekildi.
+2020-08-18 14:41:52.503 +03:00 [INF] Veri tabaninda bulunan en son yayinlanan 30 haber basarili bir sekilde cekildi.
+2020-08-18 14:43:54.475 +03:00 [INF] Veri tabaninda bulunan en son yayinlanan 30 haber basarili bir sekilde cekildi.
+2020-08-18 14:44:04.968 +03:00 [INF] Türk savunma sanayiinde tarihi tablo baslikli haber veri tabanindan basarili bir sekilde cekildi.
+2020-08-18 14:44:18.747 +03:00 [INF] 16 Ağustos koronavirüs tablosu açıklandı… Bugünkü vaka sayısı… baslikli haber veri tabanindan basarili bir sekilde cekildi.
+2020-08-18 14:44:32.021 +03:00 [INF] Veri tabaninda bulunan kategorsi Türkiye olan herberler basarili bir sekilde cekildi.
+2020-08-18 14:44:35.954 +03:00 [INF] Veri tabaninda bulunan kategorsi Dünya olan herberler basarili bir sekilde cekildi.
+2020-08-18 14:44:37.907 +03:00 [INF] Veri tabaninda bulunan kategorsi Spor olan herberler basarili bir sekilde cekildi.
+2020-08-18 14:44:39.395 +03:00 [INF] Veri tabaninda bulunan kategorsi Ekonomi olan herberler basarili bir sekilde cekildi.
+2020-08-18 14:44:40.573 +03:00 [INF] Veri tabaninda bulunan kategorsi Sağlık olan herberler basarili bir sekilde cekildi.
+2020-08-18 14:44:42.136 +03:00 [INF] Veri tabaninda bulunan kategorsi Çevre olan herberler basarili bir sekilde cekildi.
+2020-08-18 14:44:44.319 +03:00 [INF] Zehirli deniz kestaneleri Doğu Akdeniz turizmini tehdit ediyor baslikli haber veri tabanindan basarili bir sekilde cekildi.
+2020-08-18 14:44:47.082 +03:00 [INF] Veri tabaninda bulunan en son yayinlanan 30 haber basarili bir sekilde cekildi.
+2020-08-18 14:44:50.350 +03:00 [INF] Türk savunma sanayiinde tarihi tablo baslikli haber veri tabanindan basarili bir sekilde cekildi.
+2020-08-18 14:44:57.266 +03:00 [INF] Türk savunma sanayiinde tarihi tablo baslikli haber veri tabanindan basarili bir sekilde cekildi.
+2020-08-18 14:45:01.140 +03:00 [INF] Son 1 yılda kadın esnaf sayısı 33 bin arttı baslikli haber veri tabanindan basarili bir sekilde cekildi.
+2020-08-18 14:45:05.255 +03:00 [INF] Veri tabaninda bulunan kategorsi Spor olan herberler basarili bir sekilde cekildi.
