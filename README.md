@@ -14,18 +14,14 @@ I designed a website that displays movie information and allows user to add movi
 It's a simple bus registration system. <br>
 There are only three bus servise on 28 March 2020 in database.<br><br>
 ![Alt Text](https://github.com/nursultanbolel/ASP.NET-WebForms-Works/blob/master/gifs/hw3Gif.gif)
+
 ## HW-4
 It's a simple file manager. There're two pages as file upload manager and file download manager. <br>
- - File Upload Manager <br>
- 
+ - File Upload Manager <br><br>
 ![Alt Text](https://github.com/nursultanbolel/ASP.NET-WebForms-Works/blob/master/gifs/hw4-fileUploading.gif)
-
- - File Download Manager <br>
- 
+ - File Download Manager <br><br>
 ![Alt Text](https://github.com/nursultanbolel/ASP.NET-WebForms-Works/blob/master/gifs/hw4-fileDownloading.gif)
 
 ## Final Exam
-
+I designed a news crawling website that parses news from a RSS and saves news. <br><br>
 ![Alt Text](https://github.com/nursultanbolel/ASP.NET-WebForms-Works/blob/master/gifs/finalExamGif.gif)
-
-## Term Project
